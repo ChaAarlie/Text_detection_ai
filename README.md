@@ -1,5 +1,7 @@
 # Text_detection_ai
 
+OCR : La reconnaissance optique de caractères (ROC), en anglais optical character recognition (OCR), ou océrisation, désigne les procédés informatiques pour la traduction d'images de textes imprimés ou dactylographiés en fichiers de texte. 
+
 Ce git est composé de deux parties: 
 
 I- Classification de lettre de l'alphabet
